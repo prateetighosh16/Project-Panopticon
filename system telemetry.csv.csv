@@ -1,0 +1,19 @@
+student_id,exam_id,timestamp,event_type,event_value
+S001,EXAM_S001,2026-11-13 09:00:25.297,window_focus,window_focused
+S001,EXAM_S001,2026-11-13 09:00:50.432,tab_switch,browser_tab_changed
+S001,EXAM_S001,2026-11-13 09:01:01.103,copy,copy_action
+S001,EXAM_S001,2026-11-13 09:01:40.607,window_focus,window_focused
+S001,EXAM_S001,2026-11-13 09:01:45.813,tab_switch,browser_tab_changed
+S001,EXAM_S001,2026-11-13 09:02:10.485,paste,paste_action
+S001,EXAM_S001,2026-11-13 09:02:35.497,window_focus,window_focused
+S002,EXAM_S002,2026-11-13 09:05:25.766,window_focus,window_focused
+S002,EXAM_S002,2026-11-13 09:05:50.122,tab_switch,browser_tab_changed
+S002,EXAM_S002,2026-11-13 09:06:40.124,window_focus,window_focused
+S002,EXAM_S002,2026-11-13 09:06:45.700,tab_switch,browser_tab_changed
+S002,EXAM_S002,2026-11-13 09:07:35.797,window_focus,window_focused
+S003,EXAM_S003,2026-11-13 09:10:25.520,window_focus,window_focused
+S003,EXAM_S003,2026-11-13 09:10:50.577,tab_switch,browser_tab_changed
+S003,EXAM_S003,2026-11-13 09:11:01.510,copy,copy_action
+S003,EXAM_S003,2026-11-13 09:11:40.230,window_focus,window_focused
+S003,EXAM_S003,2026-11-13 09:12:10.160,paste,paste_action
+S003,EXAM_S003,2026-11-13 09:12:35.479,window_focus,window_focused
